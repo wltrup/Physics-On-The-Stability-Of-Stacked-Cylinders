@@ -2,7 +2,7 @@
 
 A little exercise on elementary Newtonian mechanics to find out the minimum coefficient of friction required for a stack of cylinders not to collapse. Originally written on July 18, 2007.
 
-![](two_layers.pdf)
+![](two_layers.png)
 
 ## Creator
 
