@@ -1,6 +1,10 @@
 # On The Stability Of Stacked Cylinders
 
-A little exercise on elementary Newtonian mechanics to find out the minimum coefficient of friction required for a stack of cylinders not to collapse. Originally written on July 18, 2007.
+A little exercise on elementary Newtonian mechanics to find out the minimum coefficient of friction required for a stack of cylinders not to collapse.
+
+I have a complete solution for the case of 2 layers of statcked cylinders and have yet to tackle the case of more layers so this is still work in progress.
+
+Originally written on July 18, 2007.
 
 ![](two_layers.png)
 
